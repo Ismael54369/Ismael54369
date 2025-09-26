@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola, soy Ismael González! 👋
 
-<!--
-**Ismael54369/Ismael54369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador | 💡 Aprendiz constante | 🌎 Apasionado por la tecnología
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+- 🔭 Actualmente trabajando en: **proyectos personales y de aprendizaje**
+- 🌱 Aprendiendo cada día más sobre **backend y frontend**
+- 💬 Pregúntame sobre: **JavaScript, Java, Python, HTML, PHP**
+- ⚡ Fun fact: Me encanta resolver problemas con código y aprender nuevas tecnologías
+
+---
+
+## 🛠️ Tecnologías y herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,python,html,php,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🌐 Encuéntrame en
+
+
+---
+
+✨ _Este README se actualiza con amor y café ☕_
