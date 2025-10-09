@@ -17,7 +17,7 @@
 
 </td>
 <td align="center">
-  <img src="https://giphy.com/gifs/one-piece-luffy-gear-5-YRThiAEEYVNtC5acLO" width="230" alt="Luffy GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NyNjdrYXk3bnc3NTNtcTM0MWE5dXJ1aDcyMnh3N2VmdGd5MDJqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif" width="230" alt="Luffy GIF"/>
 </td>
 </tr>
 </table>
