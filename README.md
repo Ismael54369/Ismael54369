@@ -5,9 +5,9 @@
 ---
 
 ## 👨‍💻 Sobre mí
-<table>
-<tr>
-<td>
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td style="border: none; vertical-align: top;">
 
 - 🔭 Actualmente trabajando en: **proyectos personales y de aprendizaje**  
 - 🌱 Aprendiendo cada día más sobre **backend y frontend**  
@@ -16,8 +16,8 @@
 - 🎮 Fan de los videojuegos retro y la música lo-fi mientras programo  
 
 </td>
-<td align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NyNjdrYXk3bnc3NTNtcTM0MWE5dXJ1aDcyMnh3N2VmdGd5MDJqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif" width="230" alt="Luffy GIF"/>
+<td style="border: none; padding-left: 20px;" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl4dXN0dms3dnl2enl5dW9zOXVwMGhpbXNwdzkxbjRlYWFkN2lhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="230" alt="Luffy GIF"/>
 </td>
 </tr>
 </table>
