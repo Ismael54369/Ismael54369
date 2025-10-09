@@ -1,19 +1,26 @@
 # ¡Hola, soy Ismael González! 👋
 
-<p align="center">
-  <img src="https://giphy.com/explore/gear-5" width="200"/>
-</p>
-
 ### 🚀 Desarrollador | 💡 Aprendiz constante | 🌎 Apasionado por la tecnología
 
 ---
 
 ## 👨‍💻 Sobre mí
-- 🔭 Actualmente trabajando en: **proyectos personales y de aprendizaje**
-- 🌱 Aprendiendo cada día más sobre **backend y frontend**
-- 💬 Pregúntame sobre: **JavaScript, Java, Python, HTML, PHP**
-- ⚡ Fun fact: Me encanta resolver problemas con código y aprender nuevas tecnologías
+<table>
+<tr>
+<td>
 
+- 🔭 Actualmente trabajando en: **proyectos personales y de aprendizaje**  
+- 🌱 Aprendiendo cada día más sobre **backend y frontend**  
+- 💬 Pregúntame sobre: **JavaScript, Java, Python, HTML, PHP**  
+- ⚡ Fun fact: Me encanta resolver problemas con código y aprender nuevas tecnologías  
+- 🎮 Fan de los videojuegos retro y la música lo-fi mientras programo  
+
+</td>
+<td align="center">
+  <img src="https://giphy.com/gifs/one-piece-luffy-gear-5-YRThiAEEYVNtC5acLO" width="230" alt="Luffy GIF"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tecnologías y herramientas
