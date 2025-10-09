@@ -47,12 +47,10 @@
 
 ---
 
-## 🕶️ Un toque extra
+✨ _Este README se mantiene vivo a base de curiosidad, constancia y mucho código 🧑‍💻_
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00ffd5&height=150&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!👋&fontColor=ffffff&fontSize=22&fontAlignY=65" />
 </p>
 
----
 
-✨ _Este README se mantiene vivo a base de curiosidad, constancia y mucho código 🧑‍💻_
