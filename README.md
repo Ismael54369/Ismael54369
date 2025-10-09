@@ -1,7 +1,7 @@
 # ¡Hola, soy Ismael González! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
+  <img src="https://giphy.com/explore/gear-5" width="200"/>
 </p>
 
 ### 🚀 Desarrollador | 💡 Aprendiz constante | 🌎 Apasionado por la tecnología
