@@ -50,17 +50,7 @@
 ## 🕶️ Un toque extra
 
 <p align="center">
-  <pre style="font-family: monospace; background-color: #0d1117; color: #00ff88; padding: 15px; border-radius: 10px; display: inline-block; text-align: left;">
-┌──────────────────────────────┐
-│  > ismael@dev:~$ Hello, GitHub! │
-│  > Running creativity.sh ...   │
-│  > Output: Unexpected ideas 💡 │
-└──────────────────────────────┘
-  </pre>
-  <br>
-  <span title="👀 ¡Has encontrado un easter egg secreto!">
-    🔓 Desbloqueaste el modo creativo. ¿Qué comando ejecutarás ahora?
-  </span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00ffd5&height=150&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!👋&fontColor=ffffff&fontSize=22&fontAlignY=65" />
 </p>
 
 ---
