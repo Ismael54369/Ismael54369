@@ -48,10 +48,21 @@
 ---
 
 ## 🕶️ Un toque extra
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" alt="Gengar coding"/>
+  <pre style="font-family: monospace; background-color: #0d1117; color: #00ff88; padding: 15px; border-radius: 10px; display: inline-block; text-align: left;">
+┌──────────────────────────────┐
+│  > ismael@dev:~$ Hello, GitHub! │
+│  > Running creativity.sh ...   │
+│  > Output: Unexpected ideas 💡 │
+└──────────────────────────────┘
+  </pre>
+  <br>
+  <span title="👀 ¡Has encontrado un easter egg secreto!">
+    🔓 Desbloqueaste el modo creativo. ¿Qué comando ejecutarás ahora?
+  </span>
 </p>
 
 ---
 
-✨ _Este README se actualiza con amor, café ☕ y commits diarios 🧑‍💻_
+✨ _Este README se mantiene vivo a base de curiosidad, constancia y mucho código 🧑‍💻_
